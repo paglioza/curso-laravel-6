@@ -1,0 +1,14 @@
+*
+!public/
+!.gitignore
+.env
+/vendor
+.end.backup
+/public/hot
+/storage/*.key
+/public/storage.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+*.log
